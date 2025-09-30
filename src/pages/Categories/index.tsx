@@ -1,4 +1,4 @@
-import ProductsList from '../../componests/ProductsList'
+import ProductsList from '../../components/ProductsList'
 import Game from '../../models/Game'
 
 import resident from '../../assets/images/resident.png'

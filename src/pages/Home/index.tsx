@@ -1,5 +1,5 @@
-import Banner from '../../componests/Banner'
-import ProductsList from '../../componests/ProductsList'
+import Banner from '../../components/Banner'
+import ProductsList from '../../components/ProductsList'
 import Game from '../../models/Game'
 
 import resident from '../../assets/images/resident.png'
